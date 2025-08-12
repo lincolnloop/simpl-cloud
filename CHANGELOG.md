@@ -3,6 +3,11 @@ Change log for Simpl Cloud
 
 A list of notable changes to the Simpl-Cloud library included in each release.
 
+## 0.63 (August 2025)
+======================
+
+- Remove unused dependency murmurhash3 from setup.cfg
+
 ## 0.62 (26 September 2023)
 ======================
 
